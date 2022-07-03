@@ -21,6 +21,6 @@
   <a href = "mailto:elitechilli96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-e51d1d?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dslva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-e51d1d?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-![github-contribution-grid-snake](https://github.com/elitechilli/elitechilli/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/elitechilli/elitechilli/blob/output/github-contribution-grid-snake.svg)
  
 </div>
