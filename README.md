@@ -5,13 +5,7 @@
 <span align="left"> I'm a self-taught passionate **FrontEnd developer** from Brazil :brazil: </span><a href="https://elitechilli.com/links"><img align="right" src="https://komarev.com/ghpvc/?username=elitechilli&label=PROFILE+VIEWS&color=lightgrey&style=flat" alt="Elite Chilli profile total views"/></a>
 
 
-<div align=left>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elitechilli&show_icons=true&include_all_commits=true&count_private=true&title_color=20232a&icon_color=20232a&bg_color=ffffff&border_color=dbdbdb&border_radius=10px"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elitechilli&layout=compact&langs_count=7&title_color=20232a&icon_color=20232aF&bg_color=ffffff&border_color=dbdbdb&border_radius=6px"/>
-
-<div align=lef>
 
 
 
@@ -53,8 +47,15 @@
 
 <div align="center">
 
-<a href="https://elitechilli.com/links">
+  <a href="https://elitechilli.com/links">![Snake animation](https://github.com/elitechilli/elitechilli/blob/output/github-contribution-grid-snake.svg)</a>
 
-![Snake animation](https://github.com/elitechilli/elitechilli/blob/output/github-contribution-grid-snake.svg)
+  <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=elitechilli&show_icons=true&include_all_commits=true&count_private=true&title_color=20232a&icon_color=20232a&bg_color=ffffff&border_color=dbdbdb&border_radius=10px"/>
+
+  <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elitechilli&layout=compact&langs_count=7&title_color=20232a&icon_color=20232aF&bg_color=ffffff&border_color=dbdbdb&border_radius=6px"/>
   
 </div>
+
+
+<a href="https://https://elitechilli.com/links">
+  <img align="right" alt="Links | Elite Chilli" width="25px" src="./assets/fav.png"/>
+</a>
