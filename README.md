@@ -2,20 +2,20 @@
 
 <br />
 
-I'm a self-taught passionate Front-End developer from Brazil 🇧🇷
+<span align="left"> I'm a self-taught passionate **FrontEnd developer** from Brazil :brazil: </span><a href="https://elitechilli.com/links"><img align="right" src="https://komarev.com/ghpvc/?username=elitechilli&label=PROFILE+VIEWS&color=lightgrey&style=flat" alt="Elite Chilli profile total views"/></a>
 
-<a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elitechilli&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elitechilli&layout=compact&langs_count=7&theme=graywhite"/>
-</div>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=elitechilli&show_icons=true&include_all_commits=true&count_private=true&title_color=20232a&icon_color=20232a&bg_color=ffffff&border_color=dbdbdb&border_radius=10px"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elitechilli&layout=compact&langs_count=7&title_color=20232a&icon_color=20232aF&bg_color=ffffff&border_color=dbdbdb&border_radius=7px"/>
+
+
 
 **About Me**
 
 - 🔌 I'm studying Electrical Engineering at Federal University of Pernambuco
 
-- 👨🏻‍💻 I’m currently learning Front-End
+- 👨🏻‍💻 I’m currently learning about Front-End
 
-- 💼 I’m currently looking for Junior Front End Developer jobs
+- 💼 Let's get in touch [🔗Mail me](mailto:danillo.santos@ufpe.br)
 
 <br>
 
@@ -40,7 +40,7 @@ I'm a self-taught passionate Front-End developer from Brazil 🇧🇷
 
 <a href="https://www.youtube.com/channel/UCZmrC4R6OdKOU-Eu1PuJdlg" target="_blank"><img src="https://img.shields.io/badge/YouTube-20232a?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/elitechilli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-20232a?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:elitechilli96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-20232a?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:danillo.santos@ufpe.br"><img src="https://img.shields.io/badge/-Gmail-20232a?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/dslva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-20232a?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
@@ -52,4 +52,3 @@ I'm a self-taught passionate Front-End developer from Brazil 🇧🇷
 ![Snake animation](https://github.com/elitechilli/elitechilli/blob/output/github-contribution-grid-snake.svg)
   
 </div>
- 
