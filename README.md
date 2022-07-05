@@ -4,11 +4,9 @@
 
 I'm a self-taught passionate Front-End developer from Brazil 🇧🇷
 
-<div align="center">
-
-  <a href="https://elitechilli.com/links" target="_blank"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=elitechilli&show_icons=true&include_all_commits=true&count_private=true&theme=graywhite"/></a>
-  <a href="https://elitechilli.com/links" target="_blank"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elitechilli&layout=compact&langs_count=7&theme=graywhite"/></a>
-  
+<a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elitechilli&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elitechilli&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
 
 **About Me**
