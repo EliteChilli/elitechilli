@@ -7,10 +7,9 @@
 <br />
 
  <div align=center>
-  <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=elitechilli&show_icons=true&include_all_commits=true&count_private=true&title_color=20232a&icon_color=20232a&bg_color=ffffff&border_color=dbdbdb&border_radius=10px"/>
-
-  <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elitechilli&layout=compact&langs_count=7&title_color=20232a&icon_color=20232aF&bg_color=ffffff&border_color=dbdbdb&border_radius=6px"/>
-</div>
+  <a href="https://www.elitechilli.com/links"><img height="150rem" src="https://github-readme-stats.vercel.app/api?username=elitechilli&show_icons=true&include_all_commits=true&count_private=true&title_color=20232a&icon_color=20232a&bg_color=ffffff&border_color=dbdbdb&border_radius=10px"/></a>
+  <a href="https://www.elitechilli.com/links"><img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elitechilli&layout=compact&langs_count=7&title_color=20232a&icon_color=20232aF&bg_color=ffffff&border_color=dbdbdb&border_radius=6px"/>
+</div></a>
 
 <br />
 
